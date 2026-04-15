@@ -1,8 +1,8 @@
-# Financial News Wire
+# Financial News Context
 
 **Financial news, straight from the source.**
 
-Financial News Wire goes beyond replicating company press releases. We help readers understand what financial companies are actually investing in — the technologies, partnerships, markets, and strategies shaping the industry — and provide the context needed to see the bigger picture.
+Financial News Context goes beyond replicating company press releases. We help readers understand what financial companies are actually investing in — the technologies, partnerships, markets, and strategies shaping the industry — and provide the context needed to see the bigger picture.
 
 ## What We Cover
 
@@ -26,4 +26,4 @@ Visit us at [financialnews.work](https://financialnews.work)
 
 ---
 
-*Financial News Wire -- Transforming financial press releases into news you can use.*
+*Financial News Context -- Transforming financial press releases into news you can use.*
