@@ -2,7 +2,7 @@
 
 **Financial news, straight from the source.**
 
-Financial News Wire delivers clear, concise financial news sourced directly from company press releases. We monitor announcements from the world's leading financial institutions and transform them into straightforward news coverage.
+Financial News Wire goes beyond replicating company press releases. We help readers understand what financial companies are actually investing in — the technologies, partnerships, markets, and strategies shaping the industry — and provide the context needed to see the bigger picture.
 
 ## What We Cover
 
